@@ -1,6 +1,6 @@
 Welcome to my Github repository where I made all my code available for the public. This code have been accumulated throughout the year for my thesis project called: "Effects of Synaptic Heterogeneity on Dynamics and Learning Performance in Recurrent Neural Networks".
 
-The code still needs to be cleaned up, which I hope to do in the coming weeks. But it is roughly divided into 4 categories:
+It is roughly divided into 4 categories:
 
 1. Code for activity plots (including eigenvalue spectra, and total weight distributions) which include:
 - "VSCode script for Activity plots"
