@@ -10,16 +10,19 @@ It is divided into 4 categories:
 - "module_tanh_LLE"
 - "LLEs_Analysis"
 - "LLE_PR_activities_module"
+- "Data_Opening_Tools_module"
 - "simulations_LLEs"
 
 3. Code for participation ratio calculations which include:
 - "simulations_PRs"
 - "LLE_PR_activities_module"
+- "Data_Opening_Tools_module"
 - "PRs_Analysis"
 
 4. Code for RLS-FORCE learning with internal weight (J) updates which include:
 - "FORCE_Local_and_Parallel_Data_Analysis"
 - "FORCE_module"
+- "Data_Opening_Tools_module"
 - "simulations_FORCE"
 - "simulations_FORCE_HSMs_Gains_Seeds"
 - "Random_Search_Param_Optimization_for_FORCE"
